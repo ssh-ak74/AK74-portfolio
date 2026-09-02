@@ -1,2 +1,1 @@
-code of my portfolio.
-ok.
+# actual code behind my portfolio
